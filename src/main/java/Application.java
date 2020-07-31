@@ -1,5 +1,7 @@
 import animals.*;
 
+import javax.smartcardio.CardTerminal;
+
 public class Application {
     public static void main(String[] args) {
         Bird bird = new Bird();
@@ -26,6 +28,8 @@ public class Application {
         parrot2.say();//cat neighbor
         parrot3.say();//rooster neighbor
 
+        Caterpillar catie = new Caterpillar();
+        Butterfly batie = catie.metamorph();
     }
 
 }

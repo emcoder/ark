@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6812b753-3e37-4563-b4af-21b74b98832d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/animals/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/animals/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/animals/Parrot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/action/MetamorphingAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/animals/Butterfly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/animals/Caterpillar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/ApplicationTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/animals/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/animals/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/animals/Rooster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/animals/Rooster.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +23,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -39,6 +44,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="test" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -59,5 +74,13 @@
     </state>
     <state x="-1147" y="264" key="#com.intellij.ide.util.MemberChooser/0.23.1440.814/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1596195954708" />
     <state x="-1147" y="264" key="#com.intellij.ide.util.MemberChooser/0.23.1440.821/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1596196591023" />
+    <state x="-1222" y="323" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1596197872218">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1222" y="323" key="#com.intellij.ide.util.PackageChooserDialog/0.23.1440.814/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1596197872218" />
+    <state x="-1181" y="288" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1596197878207">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1181" y="288" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.814/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1596197878207" />
   </component>
 </project>

@@ -13,6 +13,6 @@ public class Rooster extends Aves implements NoisyAnimal {
 
     @Override
     public String getNoise() {
-        return null;
+        return noise;
     }
 }
