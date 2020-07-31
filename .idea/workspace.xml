@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6812b753-3e37-4563-b4af-21b74b98832d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/action/NoisyAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/action/SwimmingAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/animals/Aves.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/animals/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/animals/Chicken.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/animals/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/animals/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/animals/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/animals/Bird.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -55,5 +50,11 @@
       <updated>1596193264193</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1147" y="264" key="#com.intellij.ide.util.MemberChooser" timestamp="1596195954708">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1147" y="264" key="#com.intellij.ide.util.MemberChooser/0.23.1440.814/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1596195954708" />
   </component>
 </project>

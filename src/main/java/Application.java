@@ -1,4 +1,5 @@
 import animals.Bird;
+import animals.Chicken;
 import animals.Duck;
 
 public class Application {
@@ -12,6 +13,9 @@ public class Application {
         Duck duck = new Duck();
         duck.say();
         duck.swim();
+
+        Chicken chicken = new Chicken();
+        chicken.say();
 
     }
 
